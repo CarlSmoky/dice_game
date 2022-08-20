@@ -1,5 +1,5 @@
 # Dice game
-Dice game is an app to judge which is higher number between 2 dice.
+Dice game is an app to judge which is higher number between 2 dice, using vanilla JavaScript and manupulate DOM.
 
 ## Product
 
