@@ -18,3 +18,7 @@ const judge = () => {
   }
   return displayText;
 };
+
+const winner = judge();
+const heading = document.querySelector("h1");
+heading.textContent = winner;
